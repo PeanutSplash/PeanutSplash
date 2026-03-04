@@ -19,12 +19,9 @@ Indie developer / Frontend engineer who loves building practical browser tools a
 | [vuetm-starter](https://github.com/PeanutSplash/vuetm-starter) | Tampermonkey userscript development starter based on vite-plugin-monkey |
 | [resume-kit](https://github.com/PeanutSplash/resume-kit) | Universal resume component library built with Web Components |
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PeanutSplash&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeanutSplash&layout=compact&hide_border=true" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeanutSplash&theme=github-compact&hide_border=true&area=true)](https://github.com/PeanutSplash)
 
 ### 📫 Contact
 
