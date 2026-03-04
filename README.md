@@ -12,12 +12,12 @@ Indie developer / Frontend engineer who loves building practical browser tools a
 
 ### 🔥 Open Source Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) | Xiaohongshu (RedNote) data helper - easily save your favorite notes | TypeScript |
-| [Surveygen](https://github.com/PeanutSplash/Surveygen) | Auto-fill assistant for Wenjuanxing surveys, supports multiple question types | Vue 3 · Pinia · TailwindCSS |
-| [vuetm-starter](https://github.com/PeanutSplash/vuetm-starter) | Tampermonkey userscript development starter based on vite-plugin-monkey | Vue 3 · TypeScript · TailwindCSS |
-| [resume-kit](https://github.com/PeanutSplash/resume-kit) | Universal resume component library built with Web Components | TypeScript · Web Components |
+| Project | Description |
+| --- | --- |
+| [xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) | Xiaohongshu (RedNote) data helper - easily save your favorite notes |
+| [Surveygen](https://github.com/PeanutSplash/Surveygen) | Auto-fill assistant for Wenjuanxing surveys, supports multiple question types |
+| [vuetm-starter](https://github.com/PeanutSplash/vuetm-starter) | Tampermonkey userscript development starter based on vite-plugin-monkey |
+| [resume-kit](https://github.com/PeanutSplash/resume-kit) | Universal resume component library built with Web Components |
 
 ### 📊 GitHub Stats
 
