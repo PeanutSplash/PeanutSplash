@@ -16,8 +16,6 @@ Indie developer / Frontend engineer who loves building practical browser tools a
 | --- | --- |
 | [xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) | Xiaohongshu (RedNote) data helper - easily save your favorite notes |
 | [Surveygen](https://github.com/PeanutSplash/Surveygen) | Auto-fill assistant for Wenjuanxing surveys, supports multiple question types |
-| [vuetm-starter](https://github.com/PeanutSplash/vuetm-starter) | Tampermonkey userscript development starter based on vite-plugin-monkey |
-| [resume-kit](https://github.com/PeanutSplash/resume-kit) | Universal resume component library built with Web Components |
 
 ### 📫 Contact
 
